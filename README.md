@@ -1,0 +1,1 @@
+# Scraping-stock-data-from-macrotrends-and-multplt
